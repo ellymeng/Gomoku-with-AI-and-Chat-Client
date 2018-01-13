@@ -7,7 +7,7 @@ This game is a client-server program that exchanges gameplay data, gameboard upd
 <b>USER MANUAL<b>
 
 <I>IP address: 10.120.3.147 || port number: 12311 ||
-How to connect to our service: java <clientName> 10.120.3.147 12311<I>
+How to connect to our service: java <clientName> 10.120.3.147 12311</I>
 
 Instruction of how to play in the human mode
 
